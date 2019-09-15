@@ -40,7 +40,7 @@ Default config looks like this:
 **"ConnectionType"** can be `"Http"` or `"FullNode"`. Full node mode is not implemented.  
 **"CanSpendUnconfirmed"** can be `"False"` or `"True"`. Change to "True", so you can play around with it without waiting for confirmations.  
   
-###Walkthrough  
+### Walkthrough  
   
 Generate a wallet with `dotnet run generate-wallet`.  
 **Output:**

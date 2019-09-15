@@ -1,4 +1,10 @@
 # DotNetWallet
+
+NOTE:  This project is forked from https://github.com/nopara73/DotNetWallet.  I am to 
+* Refactor to use the command pattern.
+* Add support for segwit addresses.
+* Make the project a lib on Nuget
+
 Cross platform Bitcoin wallet implementation in .NET Core for a CodeProject tutorial: [Build a Bitcoin wallet in C#](https://www.codeproject.com/script/Articles/ArticleVersion.aspx?waid=214550&aid=1115639)  
   
 The wallet might also will turn out to be the first iteration of a dedicated wallet for a Bitcoin privacy improvement technique, called [TumbleBit](https://github.com/BUSEC/TumbleBit). TumbleBit will be integrated through [NTumbleBit](https://github.com/NTumbleBit/NTumbleBit), however in a new repository with new name. This repository will stay as is for the shake of a the CodeProject tutorial.  
